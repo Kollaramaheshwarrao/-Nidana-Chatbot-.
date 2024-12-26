@@ -1,0 +1,307 @@
+{
+    "intents": [
+      {
+        "tag": "happiness",
+        "patterns": [
+          "Happiness depends on ourselves.",
+          "Happiness is not by chance, but by choice.",
+          "The happiest people don’t have the best of everything, they make the best of everything.",
+          "Happiness is a direction, not a place."
+        ],
+        "responses": [
+          "Choose to be happy every single day.",
+          "Happiness comes when we stop complaining about the troubles we have and start being thankful for the troubles we don’t have.",
+          "Happiness is when what you think, what you say, and what you do are in harmony."
+        ]
+      },
+      {
+        "tag": "hope",
+        "patterns": [
+          "Hope is a waking dream.",
+          "Once you choose hope, anything’s possible.",
+          "Where there is no hope, it’s easy to make choices.",
+          "Hope is a thing with feathers that perches in the soul."
+        ],
+        "responses": [
+          "Hope is being able to see that there is light despite all of the darkness.",
+          "Keep hope alive and never lose sight of your goals.",
+          "With hope, we can face any storm that comes our way."
+        ]
+      },
+      {
+        "tag": "courage",
+        "patterns": [
+          "Courage is not the absence of fear, but the willingness to move forward in spite of it.",
+          "It takes courage to grow up and become who you really are.",
+          "Courage is grace under pressure.",
+          "It always seems impossible until it’s done."
+        ],
+        "responses": [
+          "Courage doesn’t always roar. Sometimes it’s the quiet voice at the end of the day saying, 'I will try again tomorrow.'",
+          "To live without hope is to cease to live.",
+          "Fear is a reaction. Courage is a decision."
+        ]
+      },
+      {
+        "tag": "love",
+        "patterns": [
+          "Love is the only reality, and it is not a mere sentiment. It is the ultimate truth at the heart of creation.",
+          "To love and be loved is to feel the sun from both sides.",
+          "Love is not about how much you say 'I love you,' but how much you prove that it's true.",
+          "Love yourself first and everything else falls into line."
+        ],
+        "responses": [
+          "Love is a verb, not a noun.",
+          "Love the life you live. Live the life you love.",
+          "In the end, we only regret the chances we didn’t take."
+        ]
+      },
+      {
+        "tag": "inspiration",
+        "patterns": [
+          "The only way to do great work is to love what you do.",
+          "Success is not the key to happiness. Happiness is the key to success.",
+          "Don't watch the clock; do what it does. Keep going.",
+          "You are never too old to set another goal or to dream a new dream."
+        ],
+        "responses": [
+          "Your limitation—it’s only your imagination.",
+          "Push yourself, because no one else is going to do it for you.",
+          "Success is what happens after you have survived all your mistakes."
+        ]
+      },
+      {
+        "tag": "determination",
+        "patterns": [
+          "The difference between the impossible and the possible lies in a person’s determination.",
+          "It does not matter how slowly you go as long as you do not stop.",
+          "The future belongs to those who believe in the beauty of their dreams.",
+          "The harder you work for something, the greater you’ll feel when you achieve it."
+        ],
+        "responses": [
+          "Determination is the wake-up call to the human will.",
+          "Strength does not come from what you can do. It comes from overcoming the things you once thought you couldn’t.",
+          "Success is the sum of small efforts, repeated day in and day out."
+        ]
+      },
+      {
+        "tag": "resilience",
+        "patterns": [
+          "Resilience is the ability to bounce back from adversity.",
+          "The strongest people are not those who show strength in front of us but those who win battles we know nothing about.",
+          "Our greatest glory is not in never falling, but in rising every time we fall.",
+          "You may have to fight a battle more than once to win it."
+        ],
+        "responses": [
+          "Resilience is not just the ability to bounce back, but to grow in strength through adversity.",
+          "Don’t count the days, make the days count.",
+          "It’s not about how hard you hit. It’s about how hard you can get hit and keep moving forward."
+        ]
+      },
+
+  {
+    "tag": "gratitude",
+    "patterns": [
+      "Why is gratitude important?",
+      "How can I practice gratitude?",
+      "What are the benefits of being thankful?",
+      "Tell me about being grateful.",
+      "I feel thankful today."
+    ],
+    "responses": [
+      "Gratitude turns what we have into enough.",
+      "A grateful heart is a magnet for miracles.",
+      "Practicing gratitude daily can improve your mental and emotional well-being.",
+      "When you focus on the good, the good gets better.",
+      "Gratitude unlocks the fullness of life."
+    ]
+  },
+  {
+    "tag": "self-confidence",
+    "patterns": [
+      "How do I build confidence?",
+      "I feel like I'm not good enough.",
+      "How can I stop doubting myself?",
+      "What can boost my self-esteem?",
+      "Tell me something to help with self-confidence."
+    ],
+    "responses": [
+      "Believe in yourself and all that you are. Know that there is something inside you greater than any obstacle.",
+      "Confidence comes from doing what scares you and realizing you’re capable.",
+      "Self-confidence is a superpower. Once you start believing in yourself, magic happens.",
+      "You are enough just as you are.",
+      "Mistakes are proof that you are trying."
+    ]
+  },
+  {
+    "tag": "overcoming-failure",
+    "patterns": [
+      "I failed, what should I do?",
+      "How can I overcome failure?",
+      "Failure hurts, any advice?",
+      "What does failure teach us?",
+      "I want to move on from a setback."
+    ],
+    "responses": [
+      "Failure is simply the opportunity to begin again, this time more intelligently.",
+      "Every great achievement was once considered impossible. Keep pushing forward.",
+      "Do not be embarrassed by your failures; learn from them and start again.",
+      "Remember, failure is not the opposite of success; it's part of success.",
+      "The greatest glory in living lies not in never falling, but in rising every time we fall."
+    ]
+  },
+  {
+    "tag": "stress-management",
+    "patterns": [
+      "I'm feeling stressed.",
+      "How do I deal with stress?",
+      "What can help me relax?",
+      "Tips for managing stress?",
+      "I'm overwhelmed, help me."
+    ],
+    "responses": [
+      "Take a deep breath. You’ve got this.",
+      "Stress is a part of life, but remember, so is overcoming it.",
+      "Take one thing at a time, and don’t forget to care for yourself.",
+      "A walk, some music, or even a few minutes of deep breathing can do wonders for stress.",
+      "It’s okay to step back, recharge, and return stronger."
+    ]
+  },
+  {
+    "tag": "positivity",
+    "patterns": [
+      "How can I stay positive?",
+      "I want to feel better.",
+      "What are some positive thoughts?",
+      "Encourage me with positivity.",
+      "Life feels tough right now."
+    ],
+    "responses": [
+      "Keep your face to the sunshine, and you cannot see a shadow.",
+      "Positivity is like a muscle; the more you use it, the stronger it becomes.",
+      "Every day may not be good, but there is something good in every day.",
+      "You’ve survived 100% of your bad days so far. Keep going!",
+      "Stay positive. Better days are ahead."
+    ]
+  },
+{
+    "tag": "self-discipline",
+    "patterns": [
+      "How do I build discipline?",
+      "Tips to stay focused?",
+      "I find it hard to stay consistent.",
+      "How can I stop procrastinating?",
+      "What helps with self-control?"
+    ],
+    "responses": [
+      "Discipline is the bridge between goals and accomplishment.",
+      "Success is nothing more than a few simple disciplines practiced every day.",
+      "Start where you are, use what you have, and do what you can.",
+      "Your ability to discipline yourself is a major key to personal and professional success.",
+      "Procrastination is the enemy of success. Take one small step today."
+    ]
+  },
+  {
+    "tag": "success",
+    "patterns": [
+      "What defines success?",
+      "How can I achieve success?",
+      "Tell me the path to success.",
+      "What are habits of successful people?",
+      "I want to be successful."
+    ],
+    "responses": [
+      "Success is not the key to happiness. Happiness is the key to success.",
+      "Success usually comes to those who are too busy to be looking for it.",
+      "The road to success is always under construction.",
+      "Don’t be afraid to give up the good to go for the great.",
+      "Success doesn’t happen overnight. Keep going!"
+    ]
+  },
+  {
+    "tag": "growth-mindset",
+    "patterns": [
+      "What is a growth mindset?",
+      "How do I improve myself?",
+      "I want to grow as a person.",
+      "How can I embrace challenges?",
+      "Help me see failures positively."
+    ],
+    "responses": [
+      "A growth mindset helps you see failures as stepping stones to success.",
+      "The more you challenge yourself, the stronger you become.",
+      "Mistakes are proof that you are learning.",
+      "Embrace the process, and the results will follow.",
+      "Growth is painful, but nothing is as painful as staying stuck somewhere you don’t belong."
+    ]
+  },
+  {
+    "tag": "perseverance",
+    "patterns": [
+      "How can I stay persistent?",
+      "I want to give up, any advice?",
+      "Why is perseverance important?",
+      "Tell me about staying strong.",
+      "Help me stay on track."
+    ],
+    "responses": [
+      "Perseverance is not a long race; it is many short races one after the other.",
+      "Keep going, even when it gets tough. The reward is worth it.",
+      "The difference between success and failure is perseverance.",
+      "Fall seven times, stand up eight.",
+      "With every step, you are closer to achieving your dream."
+    ]
+  },
+  {
+    "tag": "mindfulness",
+    "patterns": [
+      "What is mindfulness?",
+      "How can I stay present?",
+      "I keep overthinking, help me.",
+      "What are ways to practice mindfulness?",
+      "How do I stop worrying about the past?"
+    ],
+    "responses": [
+      "Mindfulness is about living in the moment and fully experiencing it.",
+      "Focus on the present; it’s the only time that matters.",
+      "Let go of what you can’t control and embrace the now.",
+      "A calm mind is the ultimate weapon against challenges.",
+      "Practicing mindfulness daily brings clarity and peace."
+    ]
+  },
+  {
+    "tag": "motivation",
+    "patterns": [
+      "How do I stay motivated?",
+      "I feel like giving up.",
+      "What inspires people?",
+      "Can you give me a motivational boost?",
+      "I need help finding my drive."
+    ],
+    "responses": [
+      "You don’t have to be great to start, but you have to start to be great.",
+      "Motivation gets you started. Habit keeps you going.",
+      "Focus on your goals, not your fears.",
+      "Your dreams are valid, and your efforts will pay off.",
+      "Don’t stop until you’re proud of what you’ve achieved."
+    ]
+  },
+  {
+    "tag": "forgiveness",
+    "patterns": [
+      "How do I forgive someone?",
+      "I’m holding a grudge, what do I do?",
+      "Why is forgiveness important?",
+      "How can forgiveness help me?",
+      "I want to let go of the past."
+    ],
+    "responses": [
+      "Forgiveness doesn’t change the past, but it can change the future.",
+      "To forgive is to set a prisoner free and discover the prisoner was you.",
+      "Forgiveness is the key to inner peace and healing.",
+      "Let go of anger and embrace freedom through forgiveness.",
+      "Holding onto resentment only weighs you down. Forgiveness is a gift you give yourself."
+    ]
+  }
+]
+}
